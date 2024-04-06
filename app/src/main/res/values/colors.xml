@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icon_color">#FF000000</color>
+    <color name="border_bootm_color">#27000000</color>
+    <color name="programansPrimaryColor">#2c4066</color>
+    <color name="button_text_color">#fff</color>
+    <color name="drawable_color_button">#fff</color>
+    <color name="background_items">#27000000</color>
+</resources>
