@@ -133,8 +133,8 @@ Build → Generate Signed Bundle / APK
 
 ## 📄 License
 
-No license has been added yet.
-Add a license file if you plan to open-source this project.
+This project is licensed under the **MIT License**.
+See the `LICENSE` file for details.
 
 ---
 
